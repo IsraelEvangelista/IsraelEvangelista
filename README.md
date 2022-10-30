@@ -4,4 +4,4 @@
 - 🌱 Estudando: Ciência de Dados
 - 😄 Pronouns: Ele/dele
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsraelEvangelista&show_icons=true&theme=transparent)
+![IsraelEvangelista GitHub stats](https://github-readme-stats.vercel.app/api?username=IsraelEvangelista&show_icons=true&theme=transparent)
