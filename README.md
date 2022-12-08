@@ -1,8 +1,6 @@
-## Olá! Sou Israel Evangelista
+## Hi there 😄 
 
-- 🔭 Hoje trabalho com Análise de Dados
-- 🌱 Estudando: Ciência de Dados
-- 😄 Pronouns: Ele/dele
+I'm Israel Evangelista, and i've been working in the COGERH since 2012. Today I'm Data Scientist focus on descriptive, diagnostic and predictive analysis. I have mastery in Power BI, Looker Studio, Google Colab, Jupyter and SQL queries that I use to base analysis.
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
