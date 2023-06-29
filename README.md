@@ -5,11 +5,9 @@ I'm Israel Evangelista, and i've been working in the COGERH since 2012. Today I'
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-<img align="right" src="https://media.kasperskydaily.com/wp-content/uploads/sites/87/2018/05/23102909/epp-edr-importance-featured.jpg" width = 520px></picture>
-
 ![IsraelEvangelista GitHub stats](https://github-readme-stats.vercel.app/api?username=IsraelEvangelista&show_icons=true&theme=transparent) <picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelEvangelista&show_icons=true&theme=transparent)](https://github.com/IsraelEvangelista/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelEvangelista&show_icons=true&theme=transparent)](https://github.com/IsraelEvangelista/github-readme-stats)  <img align="right" src="https://media.kasperskydaily.com/wp-content/uploads/sites/87/2018/05/23102909/epp-edr-importance-featured.jpg" width = 520px></picture>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/israel-evangelista-86231358" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
