@@ -5,7 +5,8 @@ I'm Israel Evangelista, and i've been working in the COGERH since 2012. Today I'
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-<img align="center" src="https://static.scrum.org/web/badges/badge-psmi.svg" width = 50px target="_blank"></a>
+<div align="left">
+  <a href="https://www.credly.com/badges/ec74968e-4133-4958-aeb4-5b4a8d72d243" target="_blank"><img src="https://static.scrum.org/web/badges/badge-psmi.svg" width = 50px target="_blank"></a> 
 
 ____________________________________________________________________
 
